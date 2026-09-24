@@ -32,6 +32,13 @@ jobs:
         env:
           CI: true
 
+      - name: Prepare report zip for email
+        if: always()
+        run: |
+          mkdir -p email-report
+          cp -R playwright-report email-report/
+          zip -r playwright-report.zip email-report
+
       - name: Upload Playwright and Reporting Labs report
         if: always()
         uses: actions/upload-artifact@v4
@@ -42,4 +49,26 @@ jobs:
             playwright-report/reporting-labs/
             test-results/
             reporting-labs.history.json
+            playwright-report.zip
           if-no-files-found: warn
+
+      - name: Send report by email
+        if: always()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: Playwright report for ${{ github.repository }}
+          to: ${{ secrets.EMAIL_TO }}
+          from: GitHub Actions <${{ secrets.SMTP_USERNAME }}>
+          html_body: |
+            <h2>Playwright run completed</h2>
+            <p>Repository: <b>${{ github.repository }}</b></p>
+            <p>Workflow run: <b>${{ github.run_id }}</b></p>
+            <p>Branch: <b>${{ github.ref_name }}</b></p>
+            <p>The attached zip contains the Reporting Labs HTML report and the raw Playwright output.</p>
+          attachments: playwright-report.zip
+          convert_markdown: true
+          secure: true
