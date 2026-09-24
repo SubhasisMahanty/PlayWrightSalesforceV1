@@ -1,0 +1,440 @@
+[
+ {
+  "time": 1790244182949,
+  "duration": 19933.678,
+  "passed": 13,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 13,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "p",
+    4090
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "p",
+    3816
+   ],
+   "chromium::tests/annotations.spec.ts::#testFailure": [
+    "p",
+    2706
+   ],
+   "chromium::tests/codeGen.spec.ts::test": [
+    "p",
+    6862
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test1": [
+    "p",
+    20
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test2": [
+    "p",
+    9
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test3": [
+    "p",
+    5
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test4": [
+    "p",
+    6
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test5": [
+    "p",
+    5
+   ],
+   "chromium::tests/firstAutoTest.spec.ts::My first test": [
+    "p",
+    9702
+   ],
+   "chromium::tests/hookstest.spec.ts::test1": [
+    "p",
+    11
+   ],
+   "chromium::tests/hookstest.spec.ts::test2": [
+    "p",
+    11
+   ],
+   "chromium::tests/hookstest.spec.ts::test3": [
+    "p",
+    21
+   ]
+  }
+ },
+ {
+  "time": 1790245085383,
+  "duration": 22949.872000000003,
+  "passed": 13,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 13,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "p",
+    4920
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "p",
+    4644
+   ],
+   "chromium::tests/annotations.spec.ts::#testFailure": [
+    "p",
+    4653
+   ],
+   "chromium::tests/codeGen.spec.ts::test": [
+    "p",
+    8067
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test1": [
+    "p",
+    10
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test2": [
+    "p",
+    5
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test3": [
+    "p",
+    47
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test4": [
+    "p",
+    10
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test5": [
+    "p",
+    5
+   ],
+   "chromium::tests/firstAutoTest.spec.ts::My first test": [
+    "p",
+    8785
+   ],
+   "chromium::tests/hookstest.spec.ts::test1": [
+    "p",
+    5
+   ],
+   "chromium::tests/hookstest.spec.ts::test2": [
+    "p",
+    47
+   ],
+   "chromium::tests/hookstest.spec.ts::test3": [
+    "p",
+    18
+   ]
+  }
+ },
+ {
+  "time": 1790245232522,
+  "duration": 24319.93200000003,
+  "passed": 13,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 13,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "p",
+    6045
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "p",
+    5637
+   ],
+   "chromium::tests/annotations.spec.ts::#testFailure": [
+    "p",
+    2640
+   ],
+   "chromium::tests/codeGen.spec.ts::test": [
+    "p",
+    11128
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test1": [
+    "p",
+    11
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test2": [
+    "p",
+    5
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test3": [
+    "p",
+    85
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test4": [
+    "p",
+    16
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test5": [
+    "p",
+    24
+   ],
+   "chromium::tests/firstAutoTest.spec.ts::My first test": [
+    "p",
+    9081
+   ],
+   "chromium::tests/hookstest.spec.ts::test1": [
+    "p",
+    23
+   ],
+   "chromium::tests/hookstest.spec.ts::test2": [
+    "p",
+    15
+   ],
+   "chromium::tests/hookstest.spec.ts::test3": [
+    "p",
+    5
+   ]
+  }
+ },
+ {
+  "time": 1790245301653,
+  "duration": 21526.238999999998,
+  "passed": 13,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 13,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "p",
+    5701
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "p",
+    5966
+   ],
+   "chromium::tests/annotations.spec.ts::#testFailure": [
+    "p",
+    2630
+   ],
+   "chromium::tests/codeGen.spec.ts::test": [
+    "p",
+    9508
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test1": [
+    "p",
+    18
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test2": [
+    "p",
+    11
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test3": [
+    "p",
+    6
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test4": [
+    "p",
+    7
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test5": [
+    "p",
+    6
+   ],
+   "chromium::tests/firstAutoTest.spec.ts::My first test": [
+    "p",
+    9083
+   ],
+   "chromium::tests/hookstest.spec.ts::test1": [
+    "p",
+    5
+   ],
+   "chromium::tests/hookstest.spec.ts::test2": [
+    "p",
+    8
+   ],
+   "chromium::tests/hookstest.spec.ts::test3": [
+    "p",
+    4
+   ]
+  }
+ },
+ {
+  "time": 1790245556449,
+  "duration": 23869.67399999999,
+  "passed": 13,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 13,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "p",
+    4423
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "p",
+    5081
+   ],
+   "chromium::tests/annotations.spec.ts::#testFailure": [
+    "p",
+    2713
+   ],
+   "chromium::tests/codeGen.spec.ts::test": [
+    "p",
+    11152
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test1": [
+    "p",
+    8
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test2": [
+    "p",
+    50
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test3": [
+    "p",
+    87
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test4": [
+    "p",
+    6
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test5": [
+    "p",
+    14
+   ],
+   "chromium::tests/firstAutoTest.spec.ts::My first test": [
+    "p",
+    11658
+   ],
+   "chromium::tests/hookstest.spec.ts::test1": [
+    "p",
+    13
+   ],
+   "chromium::tests/hookstest.spec.ts::test2": [
+    "p",
+    13
+   ],
+   "chromium::tests/hookstest.spec.ts::test3": [
+    "p",
+    8
+   ]
+  }
+ },
+ {
+  "time": 1790245946769,
+  "duration": 9292.948,
+  "passed": 2,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 2,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "p",
+    5526
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "p",
+    5488
+   ]
+  }
+ },
+ {
+  "time": 1790246140375,
+  "duration": 38.89200000000005,
+  "passed": 0,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 0,
+  "tests": {}
+ },
+ {
+  "time": 1790246174239,
+  "duration": 15.677999999999884,
+  "passed": 0,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 0,
+  "tests": {}
+ },
+ {
+  "time": 1790246431813,
+  "duration": 9114.806000000004,
+  "passed": 2,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 2,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "p",
+    5420
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "p",
+    4837
+   ]
+  }
+ },
+ {
+  "time": 1790246527144,
+  "duration": 9172.07100000001,
+  "passed": 2,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 2,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "p",
+    5242
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "p",
+    4728
+   ]
+  }
+ },
+ {
+  "time": 1790246564816,
+  "duration": 15784.911000000022,
+  "passed": 3,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 0,
+  "total": 3,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "p",
+    5398
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "p",
+    4908
+   ],
+   "chromium::tests/codeGen.spec.ts::test": [
+    "p",
+    6597
+   ]
+  }
+ },
+ {
+  "time": 1790248082255,
+  "duration": 41.41100000000006,
+  "passed": 0,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 3,
+  "total": 3,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "s",
+    0
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "s",
+    0
+   ],
+   "chromium::tests/codeGen.spec.ts::test": [
+    "s",
+    0
+   ]
+  }
+ }
+]
