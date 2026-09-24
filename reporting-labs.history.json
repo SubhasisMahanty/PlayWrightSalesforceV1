@@ -507,5 +507,147 @@
     0
    ]
   }
+ },
+ {
+  "time": 1790252388693,
+  "duration": 103.06700000000001,
+  "passed": 0,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 15,
+  "total": 15,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "s",
+    0
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "s",
+    0
+   ],
+   "chromium::tests/annotations.spec.ts::#testFailure": [
+    "s",
+    0
+   ],
+   "chromium::tests/codeGen.spec.ts::test": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test1": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test2": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test3": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test4": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test5": [
+    "s",
+    0
+   ],
+   "chromium::tests/example.spec.ts::has title": [
+    "s",
+    0
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "s",
+    0
+   ],
+   "chromium::tests/firstAutoTest.spec.ts::My first test": [
+    "s",
+    0
+   ],
+   "chromium::tests/hookstest.spec.ts::test1": [
+    "s",
+    0
+   ],
+   "chromium::tests/hookstest.spec.ts::test2": [
+    "s",
+    0
+   ],
+   "chromium::tests/hookstest.spec.ts::test3": [
+    "s",
+    0
+   ]
+  }
+ },
+ {
+  "time": 1790252406498,
+  "duration": 216.086,
+  "passed": 0,
+  "failed": 0,
+  "flaky": 0,
+  "skipped": 15,
+  "total": 15,
+  "tests": {
+   "chromium::tests/addItemAll.spec.ts::Add item and checkout": [
+    "s",
+    0
+   ],
+   "chromium::tests/addItemAll.spec.ts::Add item & remove": [
+    "s",
+    0
+   ],
+   "chromium::tests/annotations.spec.ts::#testFailure": [
+    "s",
+    0
+   ],
+   "chromium::tests/codeGen.spec.ts::test": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test1": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test2": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test3": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test4": [
+    "s",
+    0
+   ],
+   "chromium::tests/describeTest.spec.ts::Test Suite › test5": [
+    "s",
+    0
+   ],
+   "chromium::tests/example.spec.ts::has title": [
+    "s",
+    0
+   ],
+   "chromium::tests/example.spec.ts::get started link": [
+    "s",
+    0
+   ],
+   "chromium::tests/firstAutoTest.spec.ts::My first test": [
+    "s",
+    0
+   ],
+   "chromium::tests/hookstest.spec.ts::test1": [
+    "s",
+    0
+   ],
+   "chromium::tests/hookstest.spec.ts::test2": [
+    "s",
+    0
+   ],
+   "chromium::tests/hookstest.spec.ts::test3": [
+    "s",
+    0
+   ]
+  }
  }
 ]
